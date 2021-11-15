@@ -21,6 +21,7 @@ A feladat egyik lehetséges megoldása a következő:
 
       cv2.destroyAllWindows()'
    * Barcode kijelölése és dekódolása
+     * from pyzbar import pyzbar
      * barcodes = pyzbar.decode(img) **barcodes objektum x,y,w,h helyét megadja a vonalkódnak**
      * for barcode in barcodes: **az összes vonalkód megtekintéséhez**
          x,y,w,h = barcode.rect **vonalkód analizálásához** 
