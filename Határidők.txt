@@ -1,0 +1,21 @@
+Beadandó témaválasztás:
+A témaválasztás emailben történik. Témát választani lehet az általam javasoltak közül, vagy saját ötlettel is lehet keresni. Saját ötlet alapja lehet egy általam javasolt téma is, valamilyen szintű módosítással.
+Határidő: 2021. október 18.
+
+Github repository elérhetőségének elküldése:
+A beadandót (forráskód, dokumentáció, adatkészlet) Github repository formájában kell leadni. Az elkészített, de még üres repository linkjét emailben várom. A munkájukat folyamatosan töltsék fel a létrehozott tárhelyre, ahol én is nyomon tudom követni.
+Határidő: 2021. október 22.
+
+1. kötelező konzultáció:
+A konzultáció alkalmával szeretném látni, hogy a feladat megoldásának kezdeti terve elkészült, valamint a megoldáshoz szükséges elméleti hátterek, szükséges eszközök feltérképezése megtörtént.
+Határidő: 2021. november 22.
+
+2. kötelező konzultáció:
+A konzultáció alkalmával szeretném látni, hogy a feladat gyakorlati megoldása elkezdődött és bizonyos részfeladatok már készen vannak, esetleg be is mutathatók. Valamint a még hátralévő feladatok tisztázása a cél.
+Határidő: 2021. december 13.
+
+Feladat leadása:
+Határidőig kell véglegesíteni az anyagot a Github-on. Emiatt emailt írni nem szükséges. A repository-hoz természetesen a határidő után is hozzányúlhatnak, de csak a határidőig történt változtatásokat fogom figyelembe venni az értékelés során.
+Határidő: 2022. január 10.
+
+Utolsó módosítás: 2021. október 5., kedd, 09:03
